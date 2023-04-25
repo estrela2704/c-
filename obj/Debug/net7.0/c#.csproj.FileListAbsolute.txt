@@ -1,0 +1,14 @@
+/home/rdata/Área de Trabalho/c#/bin/Debug/net7.0/c#.deps.json
+/home/rdata/Área de Trabalho/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/home/rdata/Área de Trabalho/c#/bin/Debug/net7.0/c#.dll
+/home/rdata/Área de Trabalho/c#/bin/Debug/net7.0/c#.pdb
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.dll
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/refint/c#.dll
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.pdb
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/home/rdata/Área de Trabalho/c#/obj/Debug/net7.0/ref/c#.dll
